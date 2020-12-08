@@ -241,3 +241,51 @@
   password: 'y&x5Z#f6W532ZUf$q3DsdgfgfgxxUsvoCUaDzFU'
   key: emma
   role: 'customer'
+-
+  email: jaw
+  password: 'Czara0gnia!'
+  key: jaw
+  role: 'admin'
+  securityQuestion:
+    id: 1
+    answer: 'ihgi43ughi3u54h03982'
+  feedback:
+    comment: '2/10 nie polecam'
+    rating: 1
+  address:
+    - fullName: 'Jaworski Pawel'
+      mobileNum: 1234567890
+      zipCode: '0000'
+      streetAddress: 'Grzybowska 75'
+      city: 'Warsaw'
+      state: 'Mazovian'
+      country: 'Poland'
+  card:
+    - fullName: 'Moja złota karta'
+      cardNum: 4716943969046208
+      expMonth: 2
+      expYear: 2081
+-
+  email: ski
+  password: 'Czara0gnia!'
+  key: ski
+  role: 'customer'
+  securityQuestion:
+    id: 2
+    answer: 'aj90249gu0239gj9uh'
+  feedback:
+    comment: 'sprzedam Porsche'
+    rating: 5
+  address:
+    - fullName: 'Jaworski Pawel'
+      mobileNum: 1234567890
+      zipCode: '0000'
+      streetAddress: 'Grzybowska 75'
+      city: 'Warsaw'
+      state: 'Mazovian'
+      country: 'Poland'
+  card:
+    - fullName: 'Moja karta od Trumpa'
+      cardNum: 4716943969046208
+      expMonth: 2
+      expYear: 2081
