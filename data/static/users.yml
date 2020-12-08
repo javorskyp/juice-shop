@@ -280,7 +280,7 @@
     - fullName: 'Jaworski Pawel'
       mobileNum: 1234567890
       zipCode: '0000'
-      streetAddress: 'Grzybowska 75'
+      streetAddress: 'Mazowiecka 75'
       city: 'Warsaw'
       state: 'Mazovian'
       country: 'Poland'
